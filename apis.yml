@@ -1,0 +1,7 @@
+aid: lpl-financial
+url: https://raw.githubusercontent.com/api-evangelist/lpl-financial/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.lpl-financial.com
