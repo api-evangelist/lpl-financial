@@ -23,6 +23,8 @@ description: >-
   platform and partner programs available to affiliated advisors.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lpl-financial
   - type: Website
     url: https://www.lpl.com
   - type: ContactForm
