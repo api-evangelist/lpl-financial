@@ -23,6 +23,8 @@ description: >-
   platform and partner programs available to affiliated advisors.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lpl-financial-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lpl-financial
   - type: Website
