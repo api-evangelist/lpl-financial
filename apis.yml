@@ -18,6 +18,11 @@ kind: contract
 position: Consuming
 access: 3rd-Party
 tags:
+  - Financial-Services
+  - Investment Advisory
+  - Broker-Dealer
+  - Wealth Management
+tags_raw:
   - Financial Services
   - Investment Advisory
   - Broker-Dealer
